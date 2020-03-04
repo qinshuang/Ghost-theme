@@ -59,7 +59,7 @@
         var toc = $('.toc');
         toc.toc({
             content: ".post-content",
-            headings: "h2,h3,h4,h5",
+            headings: "h1,h2,h3,h4,h5",
             highlightOffset: 100
         });
 
